@@ -1,7 +1,7 @@
 # Note
 **April 2023**
 
-This project was built in 36 hours by second-year students during a National Level Hackathon - HackFest24 @ NMAMIT, Karkala
+This project was built in 36 hours during my second-year at a National Level Hackathon - HackFest24 @ NMAMIT, Karkala
 
 **Asset of the Human model is not included**
 
