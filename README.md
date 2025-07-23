@@ -11,7 +11,7 @@ A comprehensive hands-on VR simulation developed in Unity for nursing education 
 
 ## Overview
 
-VisionPros VR is designed to revolutionize nurse training by providing safe, repeatable, and immersive medical procedure simulations. The application features real-world medical scenarios, interactive medical tools, and an intelligent NPC assistant that guides users through training sessions and conducts assessments.
+VisionPros VR is designed to virtualize nurse training by providing safe, repeatable, and immersive medical procedure simulations. The application features real-world medical scenarios, interactive medical tools, and an intelligent NPC assistant that guides users through training sessions and conducts assessments.
 
 ![Environment Preview](Preview1.png)
 ![Medical Tools Preview](Preview2.png)
